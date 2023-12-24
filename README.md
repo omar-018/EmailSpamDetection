@@ -16,7 +16,7 @@ This comprehensive email spam detection project was meticulously crafted as part
 
 The project is featured in a book titled "Python Programming and Machine Learning for Beginners," providing learners with a structured and accessible resource to enhance their skills. Readers can explore the project in-depth, following step-by-step instructions and gaining a deeper understanding of the methodologies employed. For those eager to delve into the realms of Python and machine learning education, this book offers a valuable learning experience.
 
-[Explore the book here.](https://www.igi-global.com/book/_/315132){:target="_blank"}
+<a href="https://www.igi-global.com/book/_/315132" target="_blank">Explore the book here.</a>
 
 ## Results
 
