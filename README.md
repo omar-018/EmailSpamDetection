@@ -16,7 +16,7 @@ This comprehensive email spam detection project was meticulously crafted as part
 
 The project is featured in a book titled "Python Programming and Machine Learning for Beginners," providing learners with a structured and accessible resource to enhance their skills. Readers can explore the project in-depth, following step-by-step instructions and gaining a deeper understanding of the methodologies employed. For those eager to delve into the realms of Python and machine learning education, this book offers a valuable learning experience.
 
-<a href="https://www.igi-global.com/book/_/315132">Explore the book here.</a>
+<a href="https://www.igi-global.com/book/_/315132" target="_blank">Explore the book here.</a>
 
 ## Results
 
@@ -31,4 +31,4 @@ Accuracy: 97.87%
 
 These accuracy scores highlight the effectiveness of the Naïve Bayes models in accurately distinguishing between spam and non-spam emails. The Multinomial Naïve Bayes model emerges as the top performer, showcasing its robustness in handling the complexities of email spam detection. These results underscore the practical applicability of machine learning techniques in enhancing email security and streamlining communication channels.
 
-<p align="left"><img src="https://github.com/omar-018/Twitter_Analysis/blob/main/results.png" alt="GIF 1", width="100%"></p>
+<p align="left"><img src="https://github.com/omar-018/EmailSpamDetection/blob/main/results.png" alt="GIF 1", width="100%"></p>
